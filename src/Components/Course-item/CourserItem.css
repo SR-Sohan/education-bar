@@ -1,0 +1,12 @@
+.course-img img{
+    height: 200px;
+    width: 250px;
+}
+.course-item {
+    border-bottom: 1px solid gray ;
+    padding: 10px;
+    margin: 20px;
+}
+.course-info{
+    margin-left: 70px;
+}

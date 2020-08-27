@@ -1,0 +1,27 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 60px;
+    background-color: #4267B2;
+}
+.logo h4{
+    color: white;
+    font-size: 30px;
+}
+.search-box input{
+    width: 200px;
+    padding : 5px ;
+    outline: none;
+    border: 1px solid gray;
+    border-radius: 10px;
+}
+.menu a {
+    color: white;
+    font-size: 16px;
+    font-weight: 400;
+    margin: 5px;
+}
+.menu a:hover{
+    color: yellow;
+}
