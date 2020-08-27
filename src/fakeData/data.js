@@ -72,6 +72,24 @@ let data = [
         name: 'Wordpress-CMS',
         price: 230.25,
         img: 'https://softwarehamilton.com/wp-content/uploads/2015/05/wordpress-bg-medblue.png'
+    },
+    {
+        id: 13,
+        name: 'C++ - core part',
+        price: 123.25,
+        img: 'https://img-a.udemycdn.com/course/750x422/1319770_1b84_5.jpg'
+    },
+    {
+        id: 14,
+        name: 'Java - Basic to Advance and core part',
+        price: 299.99,
+        img: 'https://www.oracle.com/a/ocom/img/hp11-intl-java-logo.jpg'
+    },
+    {
+        id: 15,
+        name: 'C# - Basice to Advance and core part',
+        price:199.99,
+        img: 'https://pluralsight.imgix.net/paths/path-icons/csharp-e7b8fcd4ce.png'
     }
 ]
 export default data;

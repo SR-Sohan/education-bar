@@ -9,9 +9,9 @@ const CourseItem = (props) => {
                <img  src={img} alt=""/>
            </div>
            <div className="course-info"> 
-                <h3>Price:{name} </h3>
+                <h5>Name:{name} </h5>
                 <h4>Price: ${price} </h4>
-                <button onClick={() => addClickBtn(props.course)} className="btn btn-primary"> Enroll Now</button>
+                <button onClick={() => addClickBtn(props.course)} className="btn btn-primary mt-3"> Enroll Now</button>
            </div>
         </div>
     );
